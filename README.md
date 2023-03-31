@@ -1,4 +1,4 @@
-!![Header](./[(https://github.com/AkankshaAI/AkankshaAI/blob/main/banner%20(1).png)])
+!![Header](./[(banner (1).png)])
 <h1 align="center">Hi 👋, I'm Akanksha Rani</h1>
 <h3 align="center">A passionate Web deveoper, AI ML Enthusiast and Open Source Contributor from India</h3>
 
