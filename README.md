@@ -1,5 +1,5 @@
 ![banner (1)](https://user-images.githubusercontent.com/63795826/229116832-28a8ba4d-27ee-458e-aa13-4391fd2efa19.png)
-<h3 align="center">A passionate Web deveoper, AI ML Enthusiast and Open Source Contributor from India</h3>
+<h2 align="center">A passionate Web deveoper, AI ML Enthusiast and Open Source Contributor from India</h2>
 
 <img align="right" alt="coding" width="400" src="https://github.com/AkankshaAI/AkankshaAI/blob/5fe17170e0938721e6c959abecef329afce8faec/working-late-working-late-night.gif">
 
