@@ -1,11 +1,9 @@
 ![banner (1)](https://user-images.githubusercontent.com/63795826/229116832-28a8ba4d-27ee-458e-aa13-4391fd2efa19.png)
-<h2 align="center">A passionate Web deveoper, AI ML Enthusiast and Open Source Contributor from India</h2>
-
 <img align="right" alt="coding" width="400" src="https://github.com/AkankshaAI/AkankshaAI/blob/5fe17170e0938721e6c959abecef329afce8faec/working-late-working-late-night.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkankshaAI&label=Profile%20views&color=0e75b6&style=flat" alt="AkankshaAI" /> </p>
 
-- 👨‍💻 A huge AI ML Enthisiast 
+- 👨‍💻 A huge AI ML and Cloud Enthusiast 
 
 - ⚡ Web developer and into Open Source 
 
