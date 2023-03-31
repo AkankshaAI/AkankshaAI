@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Rani</h1>
 <h3 align="center">A passionate Web deveoper, AI ML Enthusiast and Open Source Contributor from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/63795826/229187712-a80004d4-baee-470d-b537-2897c9c77592.gif)">
+<img align="right" alt="coding" width="400" src="https://github.com/AkankshaAI/AkankshaAI/blob/5fe17170e0938721e6c959abecef329afce8faec/working-late-working-late-night.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
