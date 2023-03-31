@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/AkankshaAI/AkankshaAI/blob/5fe17170e0938721e6c959abecef329afce8faec/working-late-working-late-night.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkankshaAI&label=Profile%20views&color=0e75b6&style=flat" alt="AkankshaAI" /> </p>
 
 - 👨‍💻 A huge AI ML Enthisiast 
 
