@@ -1,6 +1,4 @@
-<h1 align="center">
- <img src="[image-url-here](https://github.com/AkankshaAI/AkankshaAI/blob/main/banner%20(1).png)" />
-</h1>
+![banner (1)](https://user-images.githubusercontent.com/63795826/229116832-28a8ba4d-27ee-458e-aa13-4391fd2efa19.png)
 
 ![Header](./banner-(1).png)
 <h1 align="center">Hi 👋, I'm Akanksha Rani</h1>
