@@ -40,4 +40,16 @@
 </a>
 
 
-![Akanksha's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkankshaAI&custom_title=Akanksha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</br>
+
+<h2 align='center'><i><a href="https://github.com/AkankshaAI/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/AkankshaAI/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkankshaAI&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/AkankshaAI/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkankshaAI&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+</br>
