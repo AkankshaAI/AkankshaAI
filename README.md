@@ -40,16 +40,4 @@
 </a>
 
 
-</br>
-
-<h2 align='center'><i><a href="https://github.com/AkankshaAI/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/AkankshaAI/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkankshaAI&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/AkankshaAI/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkankshaAI&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
-
-</br>
+[![AkankshaAI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkankshaAI&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
