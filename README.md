@@ -5,7 +5,7 @@
 
 - 👨‍💻 A huge AI ML and Cloud Enthusiast 
 
-- ⚡ Web developer and into Open Source 
+- ⚡ Front End Web developer and into Open Source 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
