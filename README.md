@@ -7,7 +7,7 @@
 
 - ⚡ Front End Web developer and into Open Source
   
-- 👩‍💻 LFX Mentee'23 at [![Hyperledger](https://www.hyperledger.org/)
+- 👩‍💻 LFX Mentee'23 at [Hyperledger](https://www.hyperledger.org/)
 
 
 <h3 align="left">Connect with me:</h3>
