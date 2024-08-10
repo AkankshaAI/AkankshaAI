@@ -5,7 +5,7 @@
 
 - 👨‍💻 A huge AI ML and Cloud Enthusiast
 
-- Software Engineer Intern at [Microsoft].(https://www.microsoft.com/en-in/microsoft-365)
+- Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-in/microsoft-365)
 
 - ⚡ Front End Web developer and into Open Source
   
