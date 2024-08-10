@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkankshaAI&label=Profile%20views&color=0e75b6&style=flat" alt="AkankshaAI" /> </p>
 
-- 👨‍💻 A huge AI ML and Cloud Enthusiast 
+- 👨‍💻 A huge AI ML and Cloud Enthusiast
+
+- Software Engineer Intern at [Microsoft].(https://www.microsoft.com/en-in/microsoft-365)
 
 - ⚡ Front End Web developer and into Open Source
   
