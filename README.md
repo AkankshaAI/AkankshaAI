@@ -41,7 +41,7 @@
 </a>
 
 
-[![AkankshaAI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkankshaAI&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AkankshaAI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkankshaAI&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)]
 
 ![Snake animation](https://raw.githubusercontent.com/AkankshaAI/AkankshaAI/output/github-contribution-grid-snake-dark.svg)
 
