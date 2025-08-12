@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkankshaAI&label=Profile%20views&color=0e75b6&style=flat" alt="AkankshaAI" /> </p>
 
-- 👨‍💻 A huge AI ML and Cloud Enthusiast
+- 👨‍💻 A huge Open Source , AI-ML Enthusiast & Full Stack Web developer
 
-- Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-in/microsoft-365)
-
-- ⚡ Front End Web developer and into Open Source
+- 💻 Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-in/microsoft-365) [Amazon](https://www.amazon.in/)
   
-- 👩‍💻 LFX Mentee'23 at [Hyperledger](https://www.hyperledger.org/)
+- 🌍 Open Source Contributor -LFX Mentee'23 at [Hyperledger](https://www.hyperledger.org/)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +15,7 @@
 <a href="https://www.linkedin.com/in/akanksha-rani-775355202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/unishe_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://twitter.com/Unishe_18?t=3Lj-av46ePoAslFqUu6isg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://medium.com/@akankshar8800" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"  alt="simplified_learner" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
