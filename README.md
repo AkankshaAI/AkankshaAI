@@ -28,11 +28,11 @@
 
 <p align="center">
   <a href="https://github.com/AkankshaAI">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaAI&theme=radical&border=7F3FBF&background=0D1117" alt="Akanksha's GitHub streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkankshaAI&theme=radical&border=7F3FBF&background=0D1117" alt="Akanksha's GitHub streak"/>
   </a>
 </p>
 
-![Snake animation](https://github.com/AkankshaAI/Akanksha-Portfolio/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <a> 
     <a href="https://github.com/AkankshaAI"><img alt="Akanksha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AkankshaAI&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
