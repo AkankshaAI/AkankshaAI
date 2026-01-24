@@ -44,3 +44,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/AkankshaAI/AkankshaAI/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
